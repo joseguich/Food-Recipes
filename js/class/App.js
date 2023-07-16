@@ -20,9 +20,6 @@ export default class App {
       if ($containerFavority) {
         getFavority();
       }
-
-
-
     });
   }
 }
